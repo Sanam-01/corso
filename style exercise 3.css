@@ -1,0 +1,80 @@
+/*TAG UNIVERSALI*/
+*{ font-family: Georgia, serif;}
+
+
+/*HEADER*/
+
+#top_part{height: 50px;}
+#logo{text-align: center;}
+#head_phrase{width: 100%;
+height: 45px;
+background-color:#f0f31f8c;
+color: #141d95c4;
+padding-left: 15px;}
+#link{padding-right: 400px;}
+
+
+/*MAIN*/
+
+/*IMMAGINE*/
+#head_p{padding: 1em;}
+#main_img{border-radius: 10px 10px 10px 10px;
+box-shadow: 8px 8px #8080801a ;
+} 
+#under_img{color: gray;}
+/*LINK*/
+.featured{color: red;}
+#first_list_items{list-style: none;}
+
+/*ARTICLE*/
+#article{padding-left: 8.5em}
+.list{font-size: 13px;}
+h4{padding-bottom: 2.5em;}
+
+/*FOOTER*/
+
+h2{font-size: 16px;
+padding-bottom: 2.5em;}
+#footer{padding-left: 9em;
+font-size: 0.8em;
+}
+#correlati{
+    padding-left: 1.5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
