@@ -1,0 +1,116 @@
+/*IMPOSTAZIONI GENERALI*/
+html{display: flex;
+justify-content: center;}
+body{font-family: 'Open Sans', sans-serif;
+color: #393d41 ;
+font-size: 1.2rem;
+line-height: 1.65}
+/*HEADER*/
+#logo{text-align: center;
+    background-color: black;}
+
+img{margin: 2.5em;}
+
+#title{text-align: center;
+background-image:url(banner.jpg);
+background-size: contain;
+padding-bottom: 2.5em;
+} 
+  
+#main_heading{padding-bottom: 1.6rem;
+    padding-top: 1.3em;
+    font-weight: bold;
+    font-size: 3.5rem;
+    color: #25a2c3;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;}
+
+    #header_p{color: #393d41 ;
+        padding-bottom: 1.7em;}
+    
+    button{
+        padding-left: 1.8em;
+        padding-right: 1.8em;
+        padding-top: 0.8em;
+        padding-bottom: 0.6em;
+        background-color: #f04c2f;
+        border-radius: 4px 4px 4px 4px;
+        border: none;
+
+    }
+    
+ 
+
+
+/*MAIN*/
+#main_div{text-align: center;
+}
+.h2{font-size: 1.5em;
+    font-weight: bold;
+    color: #25a2c3;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 15px;}
+
+    #main_div{padding-top: 2.9em;}
+
+    #main_p{padding-bottom: 27px;}
+
+    #main_p2{padding-bottom: 2.9em;}
+
+
+
+   /*ELEMENTI NELL'ARTICLE*/
+   #article{text-align: center;}
+   #article_logo1{border-radius: 250px 250px 250px 250px}
+   #article_p1{padding-bottom: 1.8em;}
+   #article_p2{padding-bottom: 4em;}
+
+
+
+/*ELEMENTI NELL'ASIDE*/
+#aside{text-align: center;
+background-color: #f04c2f;
+color: white;}
+#aside_h1{padding-bottom: 0.5em;
+    padding-top: 1em;
+    font-size: 1.7em;
+font-weight: bold;}
+
+    span{font-size: 1.5em;}
+
+    #aside_p1{font-size: 0.8em;
+        padding-bottom: 1.2em;
+        font-style: oblique;
+    }
+    #aside_p2{padding-bottom: 2.1em;}
+
+    /*SECTION*/
+    .section_logo{width: 18em;}
+    #section{text-align: center;}
+    #section_p1{padding-bottom: 4em;
+    
+    }
+    
+    #section_p2{padding-bottom: 4em;
+    
+    }
+
+    #section_p3{padding-bottom: 4em;
+    
+    }
+
+
+
+
+
+/*FOOTER*/
+footer{background-color: #25a2c3;
+padding-top: 2em;
+text-align: center;}
+#footer_h1{color: white;}
+.link{color: #c8e7f0;}
+#footer_h1{font-size: 2.6em;
+}
+#bottom_page{padding-top: 2.5em;
+padding-bottom: 4em;}
+
