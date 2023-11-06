@@ -1,0 +1,127 @@
+/* IMPOSTAZIONI GENERALI*/
+body{font-family: Arial, Helvetica, sans-serif;}
+
+
+/*HEADER */
+ header div img{padding-bottom: 0.6em;    
+    padding-top: 0.5em;
+    padding-left: 1.5em;
+    block-size: 3em;}
+ #header_div{background-color: #222F3F;}
+ header p{background-color: #364759;
+font-size: 1.1em;
+color: white;
+padding: 0.5em 1em;}
+
+
+
+/* MAIN*/
+main{padding: 2em;
+background-color: #E9EDEE;}
+#first_div{text-align: center;
+background-color:#F56600;
+color: white;
+font-size: 1.1em;
+padding: 0.7em;
+} 
+
+main img{display: inline-block;}
+
+#second_div{text-align: center;
+background-image: url(bg-image.png);
+height: 12.3em;
+color: white;
+margin-bottom: 2em;}
+#main_p{padding-top: 1.5em;
+font-size: 2em;
+line-height: 2.8em;
+font-weight: bold;}
+main a{color:#2B6670;
+text-decoration: none;
+font-size: 0.8em;}
+
+/*SECTION */
+section p{padding-bottom: 0.9em;
+font-weight: bold;
+background-color: white;
+padding-left: 1em;
+padding-top: 1em;
+}
+section div{padding:0.5em;
+padding-bottom: 1em;
+background-color: white;}
+section{padding: 0.9em;
+background-color: white;}
+
+
+
+
+.images{width: 283px;
+height: 320px;
+border-radius: 30px;
+padding-left: 0.8em;
+box-shadow: 5px 5px 20px white;
+object-fit: cover;
+} 
+
+section div img:first-child{padding-right: 0.8em; padding-left: 1em;}
+section div img:nth-child(2){padding-right: 0.8em;}
+section div img:nth-child(3){padding-right: 0.8em;}
+
+   
+   
+
+/*ARTICLE*/
+article{background-color: #E9EDEE;}
+#article_img{padding-left: 2em;
+   width: 1289px;}
+   article p{text-align: center;
+   font-weight: bold;}
+article a{text-decoration: none;
+   color:#2B6670;
+font-size: 0.8em;}
+#article_div{padding-bottom: 0.5em;}
+#article_img2{padding-left: 2.1em;
+   width: 1289px;}
+   article p:last-of-type{padding-bottom: 2em;}
+  
+/*FOOTER */
+
+footer{text-align: center;}
+footer img{font-size: 1.1em;
+height: 2em;}
+footer p{font-weight: bold;
+background-color: #364759;
+height: 2.5em;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+footer a{color: white}
+#footer_div{background-color: #222F3F;
+   padding-bottom: 1.7em;
+   padding-top: 2em;}
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
