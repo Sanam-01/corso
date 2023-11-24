@@ -1,0 +1,12 @@
+div {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #ffc017;
+  height: 10em;
+  font-size: ;
+}
+
+ul {
+  display: flex;
+}
